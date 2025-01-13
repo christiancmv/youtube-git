@@ -1,0 +1,104 @@
+commit cd0f1149c2a4ba8c0118168a8029f8c4d08058c2
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 11:24:46 2025 -0400
+
+    Agregando dos párrafos
+
+commit 83b81b187314135a0dde77155e10887374f1d33c
+Merge: 79927fc 9cbf654
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 11:22:14 2025 -0400
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 79927fc9049ae46978d994d8e9687c4c064496a9
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 11:04:43 2025 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 9cbf65495e78951986f32e27a1b665a9062d54b2
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 11:04:43 2025 -0400
+
+    Agregando estaciones del año
+
+commit 41fc782dbb7c3c8cff43ca2d3241c4603ec64f5c
+Merge: b2d0492 429ddf8
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 10:55:26 2025 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 429ddf802026a2fd5ec3140dc8e2a21b713f666f
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 10:49:32 2025 -0400
+
+    Agregando index.js al index.html
+
+commit b2d0492ba9c6edaa7295400e780d20a8f0b745a4
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 10:47:08 2025 -0400
+
+    Agregando style.css al index.html
+
+commit 7f985eb26b32da508c52bffd0047d0bd43245608
+Merge: 192cfeb 700bdd8
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 10:08:34 2025 -0400
+
+    Merge branch 'js'
+
+commit 700bdd825ca3fa760881b7f511c349c0b76bae8c
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 10:02:07 2025 -0400
+
+    Creando index.js
+
+commit 192cfeb3ba917d8d5cd21801e1b8a658920743cd
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 09:56:47 2025 -0400
+
+    Creando style.css
+
+commit baf8860fbdd3919e629aeb2e73d19bf72a9d4eab
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 09:48:56 2025 -0400
+
+    Creando  index.html
+
+commit b8ed8f82a816711db615665c08554f799cec32d1
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 09:25:00 2025 -0400
+
+    Ignorando archivos .exe
+
+commit c1e6f38a368198c3d6ff9f928cf6b40235e7c35a
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Mon Jan 13 09:10:34 2025 -0400
+
+    Se agregó más contenido al archivo README
+
+commit df300c2218b6c8f2f5e12680bf96bcc01f9b9685
+Author: christiancmv <118462217+christiancmv@users.noreply.github.com>
+Date:   Sun Jan 12 23:48:20 2025 -0400
+
+    Creando Licencia del repositorio.
+
+commit 634144349ca53ddb45e3b585271e88dbec843aae
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Sun Jan 12 23:38:49 2025 -0400
+
+    Agregando más contenido el README
+
+commit 90124a328b2e0e13c93203f4520aa9259d6d7e36
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Sun Jan 12 23:27:59 2025 -0400
+
+    Agregando contenido inicial al README
+
+commit e43ca367b2fc3b97907ac0ddbbea08cd75781ce3
+Author: Christian Manriquez V. <christiancmv95@gmail.com>
+Date:   Sun Jan 12 23:23:17 2025 -0400
+
+    Primer commit
